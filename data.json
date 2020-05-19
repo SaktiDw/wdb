@@ -224,6 +224,231 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Istitut Teknologi Bandung",
+      "kd_name": "ITB",
+      "jurusan": [
+        {
+          "name": "Bandung Jurusan Matematika Teknologi Informasi",
+          "kd_name": "Bandung JMTI",
+          "prodi": [
+            {
+              "name": "Bandung Informatika",
+              "kd_name": "Bandung IF",
+              "dosen": [
+                {
+                  "name": "Bandung Samsul",
+                  "nip": "123456789098",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                },
+                {
+                  "name": "Admin",
+                  "nip": "123456789098",
+                  "email": "admin@example.com",
+                  "password": "admin",
+                  "role": "admin"
+                }
+              ]
+            },
+            {
+              "name": "Sistem Informasi",
+              "kd_name": "SI",
+              "dosen": [
+                {
+                  "name": "Samson",
+                  "nip": "1823719256195",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            },
+            {
+              "name": "Matematika",
+              "kd_name": "MTK",
+              "dosen": [
+                {
+                  "name": "Samsuji",
+                  "nip": "198798672349124",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jurusan Sains, Teknologi Pangan dan Kemaritiman",
+          "kd_name": "JSTPK",
+          "prodi": [
+            {
+              "name": "Fisika",
+              "kd_name": "FI",
+              "dosen": [
+                {
+                  "name": "Jamet",
+                  "nip": "098767886711",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            },
+            {
+              "name": "Teknik Perkapalan",
+              "kd_name": "TP",
+              "dosen": [
+                {
+                  "name": "Jojo",
+                  "nip": "66876547564533",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            },
+            {
+              "name": "Teknik Kelautan",
+              "kd_name": "TK",
+              "dosen": [
+                {
+                  "name": "Juned",
+                  "nip": "346575655577564",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jurusan Teknologi Industri dan Proses",
+          "kd_name": "JTIP",
+          "prodi": [
+            {
+              "name": "Teknik Mesin",
+              "kd_name": "TM",
+              "dosen": [
+                {
+                  "name": "Ding ding wa ding ding",
+                  "nip": "89489289349123",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            },
+            {
+              "name": "Teknik Elektro",
+              "kd_name": "TP",
+              "dosen": [
+                {
+                  "name": "Dobleh",
+                  "nip": "89719691239192",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            },
+            {
+              "name": "Teknik Kimia",
+              "kd_name": "TK",
+              "dosen": [
+                {
+                  "name": "Dilan",
+                  "nip": "182389128759182",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            },
+            {
+              "name": "Teknik Industri",
+              "kd_name": "TI",
+              "dosen": [
+                {
+                  "name": "Dio",
+                  "nip": "128937891279512",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jurusan Teknik Sipil dan Perencanaan",
+          "kd_name": "JTSP",
+          "prodi": [
+            {
+              "name": "Teknk Sipil",
+              "kd_name": "TS",
+              "dosen": [
+                {
+                  "name": "Welly",
+                  "nip": "18989798192949",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            },
+            {
+              "name": "Perencanaan Wilayah dan Kota",
+              "kd_name": "PWK",
+              "dosen": [
+                {
+                  "name": "Wall E",
+                  "nip": "81739812031234",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jurusan Ilmu Kebumian dan Lingkungan",
+          "kd_name": "JIKL",
+          "prodi": [
+            {
+              "name": "Teknik Material dan Metalurgi",
+              "kd_name": "TMM",
+              "dosen": [
+                {
+                  "name": "Upin",
+                  "nip": "178913891928379",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            },
+            {
+              "name": "Teknik Lingkungan",
+              "kd_name": "TL",
+              "dosen": [
+                {
+                  "name": "Ipin",
+                  "nip": "81739812031234",
+                  "email": "email@example.com",
+                  "password": "5e95b3cd6d597d20b3b76f5a",
+                  "role": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
